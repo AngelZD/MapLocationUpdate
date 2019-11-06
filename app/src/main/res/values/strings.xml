@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapLocationUpdate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="buttonText_Enviar">Enviar</string>
+    <string name="textView_Tiempo_Text">0</string>
+    <string name="textView_Distancia_Text">0.0</string>
+</resources>
